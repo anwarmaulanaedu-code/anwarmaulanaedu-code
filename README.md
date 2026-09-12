@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Anwar%20Maulana!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=250&section=header&text=Hello,%20I'm%20Anwar!&fontSize=60&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62&descColor=A9B1D6"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E95D3&center=true&vCenter=true&width=435&lines=Software+Developer;Passionate+Learner;Always+Coding" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Developer;Passionate+Learner;Always+Coding" alt="Typing SVG" /></a>
 </div>
 
 ## 👨‍💻 Tentang Saya (About Me)
@@ -26,12 +26,12 @@
 ## 📊 Statistik GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarmaulanaedu-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarmaulanaedu-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anwarmaulanaedu-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anwarmaulanaedu-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarmaulanaedu-code&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarmaulanaedu-code&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Mari Terhubung (Connect with Me)
@@ -51,5 +51,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer"/>
 </div>
