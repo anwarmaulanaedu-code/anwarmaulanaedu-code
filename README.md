@@ -23,6 +23,16 @@
   </a>
 </p>
 
+## 🎮 Proyek Unggulan (Featured Project)
+
+<div align="center">
+  <a href="https://anwarmaulanaedu-code.github.io/balap-karung/" target="_blank">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=anwarmaulanaedu-code&repo=balap-karung&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Game Balap Karung" />
+  </a>
+  <br/>
+  <i><b>🏁 Klik kartu di atas untuk langsung memainkan gamenya! 🏁</b></i>
+</div>
+
 ## 📊 Statistik GitHub (GitHub Stats)
 
 <div align="center">
